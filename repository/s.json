@@ -465,6 +465,16 @@
 			]
 		},
 		{
+			"name": "Scss2Css",
+			"details": "https://github.com/cyy0418/Scss2Css",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"branch": "master"
+				}
+			]
+		},
+		{
 			"name": "SCSS Compiler",
 			"details": "https://github.com/mattarnster/scsscompiler",
 			"releases": [
